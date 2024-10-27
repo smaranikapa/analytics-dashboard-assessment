@@ -42,4 +42,4 @@ Your submission will be evaluated based on:
   - vedantp@mapup.ai
   - ajayap@mapupa.ai
   - divyanshs@mapup.ai
-- Finally, please fill out the google form that you received via email to submit the assessment for review before 2024-06-16 11:59 PM.
+- Finally, please fill out the google form that you received via email to submit the assessment for review.
