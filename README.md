@@ -1,8 +1,17 @@
 # MapUp - Analytics Dashboard Assessment
-
+# Live Link Of Dashboard
+https://electricvehiclepopulation.netlify.app
 ## Overview
 
 The objective of this assessment is to analyze the provided Electric Vehicle (EV) population data and create a frontend dashboard that visualizes key insights about the dataset. This repository contains the necessary data and instructions for you to demonstrate your analytical and dashboard creation skills. Feel free to use any tech stack you want to create the dashboard.
+
+- Three Sections are there in the dashboard
+   - Table Data
+   - Graphs
+   - Best
+- In the Table Data page all the(5000) datas are added, which is handeled all the data through pagination. In one page I am showing < 100 number of  data. After clicking the next button next table data will be shown.
+- In the graphs page different type of graphs are showing like PieChart, Bargrapgh, Scatter, Line etc.. Graphs are made based on various type of scenario according to CSV file datas.
+- In the Best page I have shown One of the best value among all the data.
 
 ## Dataset
 
